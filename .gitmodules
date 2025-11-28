@@ -1,0 +1,16 @@
+[submodule "third_party/external/glfw/repo"]
+	path = third_party/external/glfw/repo
+	url = https://github.com/glfw/glfw
+	shallow = true
+[submodule "third_party/external/glm/repo"]
+	path = third_party/external/glm/repo
+	url = https://github.com/g-truc/glm
+	shallow = true
+[submodule "third_party/external/stb/repo"]
+	path = third_party/external/stb/repo
+	url = https://github.com/nothings/stb
+	shallow = true
+[submodule "third_party/external/vulkan_memory_allocator/repo"]
+	path = third_party/external/vulkan_memory_allocator/repo
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
+	shallow = true
